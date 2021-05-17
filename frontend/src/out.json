@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://countingup.com",
+    "statusCode": 200,
+    "contentLength": 37203,
+    "responseTime": 384
+  },
+  {
+    "url": "https://www.bbc.co.uk",
+    "statusCode": 200,
+    "contentLength": 317108,
+    "responseTime": 296
+  },
+  {
+    "url": "https://stackoverflow.com",
+    "statusCode": 200,
+    "contentLength": 115022,
+    "responseTime": 528
+  },
+  {
+    "url": "https://twitter.com",
+    "statusCode": 200,
+    "contentLength": 311129,
+    "responseTime": 428
+  },
+  {
+    "url": "https://www.hashicorp.com",
+    "statusCode": 200,
+    "contentLength": 87719,
+    "responseTime": 707
+  },
+  {
+    "url": "https://www.gov.uk",
+    "statusCode": 200,
+    "contentLength": 35599,
+    "responseTime": 283
+  },
+  {
+    "url": "https://www.docker.com",
+    "statusCode": 200,
+    "contentLength": 82517,
+    "responseTime": 299
+  },
+  {
+    "url": "https://beta.companieshouse.gov.uk",
+    "statusCode": 200,
+    "contentLength": 19760,
+    "responseTime": 384
+  },
+  {
+    "url": "https://www.huckletree.com",
+    "statusCode": 200,
+    "contentLength": 447636,
+    "responseTime": 315
+  },
+  {
+    "url": "https://aws.amazon.com",
+    "statusCode": 200,
+    "contentLength": 201406,
+    "responseTime": 683
+  },
+  {
+    "url": "https://www.gov.uk/doesnotexist",
+    "statusCode": 404,
+    "contentLength": 22253,
+    "responseTime": 297
+  }
+]
